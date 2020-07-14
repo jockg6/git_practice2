@@ -1,0 +1,1 @@
+Practicing making a local GIT repository and then syncing it with a GIT HUB Repository (PUSH)
